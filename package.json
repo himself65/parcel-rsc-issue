@@ -29,5 +29,6 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "parcel": "^2.14.0"
-  }
+  },
+  "packageManager": "pnpm@10.10.0"
 }
